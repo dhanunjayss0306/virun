@@ -1,0 +1,674 @@
+{
+ "city": "kashmir",
+ "count": 80,
+ "source": "OpenStreetMap (c) contributors, ODbL",
+ "pois": [
+  {
+   "name": "15 Corps",
+   "category": "historic",
+   "lat": 34.075984,
+   "lng": 74.829303,
+   "details": {
+    "historic": "castle"
+   }
+  },
+  {
+   "name": "Aali Masjid",
+   "category": "mosque",
+   "lat": 34.1049,
+   "lng": 74.794139,
+   "details": {
+    "wikipedia": "en:Aali Mosque",
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Aali Masjid Park",
+   "category": "park",
+   "lat": 34.10498,
+   "lng": 74.794223,
+   "details": {}
+  },
+  {
+   "name": "Aastan-e-Aaliya Ali Muhammad Gilkar Sahab RA",
+   "category": "worship",
+   "lat": 34.100673,
+   "lng": 74.8148,
+   "details": {}
+  },
+  {
+   "name": "Adalat Masjid",
+   "category": "mosque",
+   "lat": 34.114938,
+   "lng": 74.810655,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Ahlihadees Masjid Muhammad Peerbagh",
+   "category": "mosque",
+   "lat": 34.032156,
+   "lng": 74.782116,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Ahlul Hadith Masjid",
+   "category": "mosque",
+   "lat": 34.121651,
+   "lng": 74.886094,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Ahmadiyya Masjid Srinagar",
+   "category": "mosque",
+   "lat": 34.076674,
+   "lng": 74.798593,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Akhund Mullah Shah Mosque",
+   "category": "mosque",
+   "lat": 34.103502,
+   "lng": 74.817174,
+   "details": {
+    "wikipedia": "en:Akhund Mullah Shah Mosque",
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Al hadeeth Masjid",
+   "category": "mosque",
+   "lat": 34.019358,
+   "lng": 74.809275,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Alamgiri Masjid",
+   "category": "mosque",
+   "lat": 34.108053,
+   "lng": 74.813799,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Ali Park",
+   "category": "park",
+   "lat": 34.111225,
+   "lng": 74.804749,
+   "details": {}
+  },
+  {
+   "name": "All Saints Chruch",
+   "category": "church",
+   "lat": 34.071495,
+   "lng": 74.831941,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Allama Iqbal Park",
+   "category": "park",
+   "lat": 34.060581,
+   "lng": 74.81722,
+   "details": {}
+  },
+  {
+   "name": "Anjum Masjid",
+   "category": "mosque",
+   "lat": 34.087252,
+   "lng": 74.775046,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Ansar-i-Shareef",
+   "category": "mosque",
+   "lat": 34.12333,
+   "lng": 74.818191,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Assembly Park",
+   "category": "park",
+   "lat": 34.07339,
+   "lng": 74.80216,
+   "details": {}
+  },
+  {
+   "name": "Astaan -E- Aaliya",
+   "category": "worship",
+   "lat": 34.097601,
+   "lng": 74.874879,
+   "details": {}
+  },
+  {
+   "name": "Astaan Sheikh-ul-Aalam",
+   "category": "mosque",
+   "lat": 34.131455,
+   "lng": 74.80255,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Astaan Syed Ashbab Saheb",
+   "category": "mosque",
+   "lat": 34.087597,
+   "lng": 74.806066,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Athwajan Pandrethan Park",
+   "category": "park",
+   "lat": 34.045097,
+   "lng": 74.8722,
+   "details": {}
+  },
+  {
+   "name": "Auqaf Bagh",
+   "category": "park",
+   "lat": 34.132705,
+   "lng": 74.808618,
+   "details": {}
+  },
+  {
+   "name": "Baachi Darwaza",
+   "category": "historic",
+   "lat": 34.10271,
+   "lng": 74.812819,
+   "details": {
+    "historic": "city_gate"
+   }
+  },
+  {
+   "name": "Baba Adam Masjid",
+   "category": "mosque",
+   "lat": 34.103062,
+   "lng": 74.812272,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Baba Dawood Khaki Masjid",
+   "category": "mosque",
+   "lat": 34.103337,
+   "lng": 74.812842,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Baba Naseeb Jamia Masjid",
+   "category": "mosque",
+   "lat": 33.958311,
+   "lng": 74.920254,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Badam Waari",
+   "category": "park",
+   "lat": 34.111505,
+   "lng": 74.821374,
+   "details": {}
+  },
+  {
+   "name": "Bagh-e-Shugufta",
+   "category": "park",
+   "lat": 34.117529,
+   "lng": 74.834899,
+   "details": {}
+  },
+  {
+   "name": "Baisaran",
+   "category": "attraction",
+   "lat": 34.002844,
+   "lng": 75.334503,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Bait Ul Salaam Mosque",
+   "category": "mosque",
+   "lat": 34.08997,
+   "lng": 74.771822,
+   "details": {
+    "opening_hours": "Mo-Su 05:00-22:00",
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Balgarden Community Park",
+   "category": "park",
+   "lat": 34.078886,
+   "lng": 74.796125,
+   "details": {}
+  },
+  {
+   "name": "Balgarden Park",
+   "category": "park",
+   "lat": 34.078542,
+   "lng": 74.79865,
+   "details": {}
+  },
+  {
+   "name": "Batyar Mandir",
+   "category": "temple",
+   "lat": 34.095986,
+   "lng": 74.80183,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bayjaqi Masjid",
+   "category": "mosque",
+   "lat": 34.086998,
+   "lng": 74.802948,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Bazaar Masjid Ahlihadith",
+   "category": "mosque",
+   "lat": 34.094759,
+   "lng": 74.809313,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Bilal Masjid",
+   "category": "mosque",
+   "lat": 34.140297,
+   "lng": 74.805996,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Bilal Masjid Park",
+   "category": "park",
+   "lat": 34.140572,
+   "lng": 74.805987,
+   "details": {}
+  },
+  {
+   "name": "Bismillah Masjid",
+   "category": "mosque",
+   "lat": 34.082429,
+   "lng": 74.764655,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Boat Tour",
+   "category": "attraction",
+   "lat": 34.086088,
+   "lng": 74.839052,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Botanical Garden SPC",
+   "category": "park",
+   "lat": 34.077419,
+   "lng": 74.815817,
+   "details": {}
+  },
+  {
+   "name": "Boys' Hostel Mosque",
+   "category": "mosque",
+   "lat": 34.123454,
+   "lng": 74.842781,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Budshah Chowk",
+   "category": "attraction",
+   "lat": 34.071921,
+   "lng": 74.809195,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Budshah Masjid",
+   "category": "mosque",
+   "lat": 34.129484,
+   "lng": 74.801546,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Budshah tomb",
+   "category": "historic",
+   "lat": 34.094922,
+   "lng": 74.806105,
+   "details": {
+    "historic": "tomb"
+   }
+  },
+  {
+   "name": "Bulbul Lankar Masjid",
+   "category": "mosque",
+   "lat": 34.096111,
+   "lng": 74.800448,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Bulbul Saob Park",
+   "category": "park",
+   "lat": 34.095895,
+   "lng": 74.800322,
+   "details": {}
+  },
+  {
+   "name": "Burzahom Archaelogical Site",
+   "category": "historic",
+   "lat": 34.170279,
+   "lng": 74.867053,
+   "details": {
+    "wikipedia": "en:Burzahom archaeological site",
+    "historic": "archaeological_site"
+   }
+  },
+  {
+   "name": "Burzahom Archaeological Site",
+   "category": "attraction",
+   "lat": 34.16915,
+   "lng": 74.866985,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Bussiness School Park",
+   "category": "park",
+   "lat": 34.133619,
+   "lng": 74.836861,
+   "details": {
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "name": "Central Park",
+   "category": "park",
+   "lat": 34.071482,
+   "lng": 74.801467,
+   "details": {}
+  },
+  {
+   "name": "Chana Mohalla Masjid",
+   "category": "mosque",
+   "lat": 34.084737,
+   "lng": 74.788218,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Chashma shahi",
+   "category": "attraction",
+   "lat": 34.06987,
+   "lng": 74.862406,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Cherry Park",
+   "category": "park",
+   "lat": 34.11786,
+   "lng": 74.827553,
+   "details": {}
+  },
+  {
+   "name": "Cheshme Shahi",
+   "category": "park",
+   "lat": 34.085823,
+   "lng": 74.886783,
+   "details": {
+    "wikipedia": "en:Chashme Shahi"
+   }
+  },
+  {
+   "name": "Chesmeshahi",
+   "category": "viewpoint",
+   "lat": 34.085677,
+   "lng": 74.886887,
+   "details": {
+    "tourism": "viewpoint"
+   }
+  },
+  {
+   "name": "Children Park",
+   "category": "park",
+   "lat": 34.066117,
+   "lng": 74.80676,
+   "details": {}
+  },
+  {
+   "name": "Children Park Munshi Bagh",
+   "category": "park",
+   "lat": 34.07397,
+   "lng": 74.823515,
+   "details": {}
+  },
+  {
+   "name": "Chinar Bagh Park",
+   "category": "park",
+   "lat": 34.081089,
+   "lng": 74.825465,
+   "details": {}
+  },
+  {
+   "name": "Chinar Masjid",
+   "category": "mosque",
+   "lat": 34.023281,
+   "lng": 74.824932,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Chinar Park",
+   "category": "park",
+   "lat": 34.130513,
+   "lng": 74.814292,
+   "details": {}
+  },
+  {
+   "name": "Chrysanthemum Garden",
+   "category": "park",
+   "lat": 34.147578,
+   "lng": 74.878727,
+   "details": {}
+  },
+  {
+   "name": "City Museum",
+   "category": "museum",
+   "lat": 34.073328,
+   "lng": 74.806123,
+   "details": {
+    "tourism": "museum"
+   }
+  },
+  {
+   "name": "College Jamia Masjid",
+   "category": "mosque",
+   "lat": 34.087163,
+   "lng": 74.759789,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Convocation Hall Park",
+   "category": "park",
+   "lat": 34.128597,
+   "lng": 74.837939,
+   "details": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "name": "Dal Side Park",
+   "category": "park",
+   "lat": 34.124939,
+   "lng": 74.844158,
+   "details": {}
+  },
+  {
+   "name": "Daliha Garden",
+   "category": "park",
+   "lat": 34.075029,
+   "lng": 74.82609,
+   "details": {}
+  },
+  {
+   "name": "Dar Masjid",
+   "category": "mosque",
+   "lat": 33.973845,
+   "lng": 74.901282,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Dar Park",
+   "category": "park",
+   "lat": 34.137914,
+   "lng": 74.811602,
+   "details": {}
+  },
+  {
+   "name": "Dargah Chinar Park",
+   "category": "park",
+   "lat": 34.129628,
+   "lng": 74.842828,
+   "details": {}
+  },
+  {
+   "name": "Dargah Hazratbal",
+   "category": "mosque",
+   "lat": 34.128962,
+   "lng": 74.842528,
+   "details": {
+    "wikipedia": "en:Hazratbal Shrine",
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Dargah Kashaniya Sharief",
+   "category": "mosque",
+   "lat": 34.145602,
+   "lng": 74.87273,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Darul Uloom Muhamadiya",
+   "category": "mosque",
+   "lat": 34.086188,
+   "lng": 74.79197,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Dastgeer Sahab",
+   "category": "mosque",
+   "lat": 34.069261,
+   "lng": 74.805063,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Dewan Mandir",
+   "category": "temple",
+   "lat": 34.087814,
+   "lng": 74.807181,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Duck Park",
+   "category": "park",
+   "lat": 34.146263,
+   "lng": 74.846701,
+   "details": {}
+  },
+  {
+   "name": "Dulbagh Park",
+   "category": "park",
+   "lat": 34.139966,
+   "lng": 74.804182,
+   "details": {}
+  },
+  {
+   "name": "Durga Nag Temple",
+   "category": "temple",
+   "lat": 34.075628,
+   "lng": 74.832573,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Eid Gaah veersiran  عید گاہ ویرسرن",
+   "category": "mosque",
+   "lat": 33.959132,
+   "lng": 75.303385,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Eid Gah Park",
+   "category": "park",
+   "lat": 34.096926,
+   "lng": 74.793064,
+   "details": {}
+  },
+  {
+   "name": "Eidgah",
+   "category": "mosque",
+   "lat": 33.973258,
+   "lng": 74.887994,
+   "details": {
+    "religion": "muslim"
+   }
+  }
+ ]
+}

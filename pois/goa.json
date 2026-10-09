@@ -1,0 +1,700 @@
+{
+ "city": "goa",
+ "count": 80,
+ "source": "OpenStreetMap (c) contributors, ODbL",
+ "pois": [
+  {
+   "name": "1901 Goa Ferry Disaster Memorial",
+   "category": "historic",
+   "lat": 15.501212,
+   "lng": 73.825042,
+   "details": {
+    "website": "https://blog.parrikar.com/2009/12/20/december-03-1901/",
+    "description": "Memorial to the 81 victims of the ferry 'Goa' which capsized on on December 3, 1901. Dedicated by the Goan community of Aden.",
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Abade Faria Statue",
+   "category": "art",
+   "lat": 15.50074,
+   "lng": 73.829438,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Agassaim Beach",
+   "category": "beach",
+   "lat": 15.429502,
+   "lng": 73.887535,
+   "details": {}
+  },
+  {
+   "name": "Aguada Beach",
+   "category": "beach",
+   "lat": 15.498947,
+   "lng": 73.767119,
+   "details": {}
+  },
+  {
+   "name": "Aguada Beach",
+   "category": "beach",
+   "lat": 15.49794,
+   "lng": 73.766284,
+   "details": {}
+  },
+  {
+   "name": "Aguada Fortress",
+   "category": "attraction",
+   "lat": 15.498055,
+   "lng": 73.766479,
+   "details": {
+    "tourism": "attraction",
+    "historic": "fort"
+   }
+  },
+  {
+   "name": "Aguada Port and Jail Complex",
+   "category": "museum",
+   "lat": 15.491595,
+   "lng": 73.775817,
+   "details": {
+    "website": "https://www.aguad.in/",
+    "tourism": "museum"
+   }
+  },
+  {
+   "name": "Aguada Rocky Beach",
+   "category": "beach",
+   "lat": 15.491874,
+   "lng": 73.768097,
+   "details": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "name": "Aivao Beach",
+   "category": "beach",
+   "lat": 15.460656,
+   "lng": 73.799396,
+   "details": {}
+  },
+  {
+   "name": "Ambedkar Garden",
+   "category": "park",
+   "lat": 15.497492,
+   "lng": 73.836607,
+   "details": {}
+  },
+  {
+   "name": "Amoeba Bowling Alley",
+   "category": "attraction",
+   "lat": 15.525548,
+   "lng": 73.827376,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Ancient Cross",
+   "category": "church",
+   "lat": 15.411081,
+   "lng": 73.786133,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Aparant",
+   "category": "art",
+   "lat": 15.500456,
+   "lng": 73.825588,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Art Chamber",
+   "category": "art",
+   "lat": 15.533861,
+   "lng": 73.76765,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Art Park",
+   "category": "park",
+   "lat": 15.528341,
+   "lng": 73.834357,
+   "details": {
+    "fee": "no"
+   }
+  },
+  {
+   "name": "Art Park",
+   "category": "park",
+   "lat": 15.498911,
+   "lng": 73.819192,
+   "details": {}
+  },
+  {
+   "name": "Arti Quinta",
+   "category": "art",
+   "lat": 15.5435,
+   "lng": 73.810188,
+   "details": {
+    "tourism": "gallery"
+   }
+  },
+  {
+   "name": "Ashoka Stambha",
+   "category": "historic",
+   "lat": 15.509573,
+   "lng": 73.837175,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Azad Maidan",
+   "category": "park",
+   "lat": 15.50013,
+   "lng": 73.826171,
+   "details": {}
+  },
+  {
+   "name": "Bambolim Beach",
+   "category": "beach",
+   "lat": 15.449856,
+   "lng": 73.851195,
+   "details": {}
+  },
+  {
+   "name": "Betim Chapel",
+   "category": "church",
+   "lat": 15.506199,
+   "lng": 73.826665,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Bhagwan Mahavir",
+   "category": "art",
+   "lat": 15.496722,
+   "lng": 73.818827,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Bhagwan Mahavir Children Park",
+   "category": "park",
+   "lat": 15.497659,
+   "lng": 73.818939,
+   "details": {
+    "description": "Children's park maintained by Forest Department."
+   }
+  },
+  {
+   "name": "Bossa Nova",
+   "category": "attraction",
+   "lat": 15.525553,
+   "lng": 73.827309,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Brahma Kumari Meditation Centre",
+   "category": "temple",
+   "lat": 15.518007,
+   "lng": 73.829216,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bridge of Dreams",
+   "category": "attraction",
+   "lat": 15.530597,
+   "lng": 73.841101,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Bust of Dr. Miguel Caetano Dias",
+   "category": "art",
+   "lat": 15.499589,
+   "lng": 73.832628,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "CKF Beach",
+   "category": "beach",
+   "lat": 15.42111,
+   "lng": 73.894437,
+   "details": {}
+  },
+  {
+   "name": "Cacra Beach",
+   "category": "beach",
+   "lat": 15.450655,
+   "lng": 73.837425,
+   "details": {}
+  },
+  {
+   "name": "Calangute Beach",
+   "category": "attraction",
+   "lat": 15.542382,
+   "lng": 73.755522,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Candolim Beach",
+   "category": "attraction",
+   "lat": 15.517881,
+   "lng": 73.7629,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Candolim Chapel",
+   "category": "church",
+   "lat": 15.506104,
+   "lng": 73.770837,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Candolim Park",
+   "category": "park",
+   "lat": 15.517803,
+   "lng": 73.76414,
+   "details": {}
+  },
+  {
+   "name": "Capela de Nossa Senhora da Mãe de Deus",
+   "category": "church",
+   "lat": 15.529428,
+   "lng": 73.800586,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Capela de Nossa Senhora das necessidades",
+   "category": "church",
+   "lat": 15.50785,
+   "lng": 73.806764,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Caranzalem Bay View Point",
+   "category": "viewpoint",
+   "lat": 15.459634,
+   "lng": 73.797579,
+   "details": {
+    "opening_hours": "24/7",
+    "description": "Beautiful view point perched on a hill top, facing Caranzalem bay, accessible by motor road, cobblestoned street and 4 benches available for seating",
+    "tourism": "viewpoint"
+   }
+  },
+  {
+   "name": "Caranzalem Beach",
+   "category": "beach",
+   "lat": 15.464023,
+   "lng": 73.802629,
+   "details": {}
+  },
+  {
+   "name": "Caranzalem Children's Park",
+   "category": "park",
+   "lat": 15.462014,
+   "lng": 73.803573,
+   "details": {}
+  },
+  {
+   "name": "Chaku Arts & Crafts",
+   "category": "art",
+   "lat": 15.516398,
+   "lng": 73.76846,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Chapel",
+   "category": "church",
+   "lat": 15.534712,
+   "lng": 73.853962,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Chapel",
+   "category": "church",
+   "lat": 15.52519,
+   "lng": 73.846858,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Chapel",
+   "category": "church",
+   "lat": 15.542872,
+   "lng": 73.832491,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Chapel of St. Jerome",
+   "category": "church",
+   "lat": 15.527265,
+   "lng": 73.8775,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Chapel of St. Sebastian",
+   "category": "church",
+   "lat": 15.496177,
+   "lng": 73.830673,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Childrens Park Porvorim",
+   "category": "park",
+   "lat": 15.51835,
+   "lng": 73.829068,
+   "details": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "name": "Church of St. Lawrence",
+   "category": "church",
+   "lat": 15.425435,
+   "lng": 73.897887,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Church of the Rosary",
+   "category": "church",
+   "lat": 15.517799,
+   "lng": 73.777391,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Coco Beach",
+   "category": "beach",
+   "lat": 15.499779,
+   "lng": 73.790182,
+   "details": {}
+  },
+  {
+   "name": "Dayanand Bandodkar Statue",
+   "category": "historic",
+   "lat": 15.545141,
+   "lng": 73.756653,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Defence Colony Park",
+   "category": "park",
+   "lat": 15.533975,
+   "lng": 73.825854,
+   "details": {}
+  },
+  {
+   "name": "Dharohar: National Museum of Customs and GST",
+   "category": "museum",
+   "lat": 15.501018,
+   "lng": 73.82824,
+   "details": {
+    "opening_hours": "Tu-Su 09:30-17:30",
+    "tourism": "museum"
+   }
+  },
+  {
+   "name": "Dias Beach",
+   "category": "beach",
+   "lat": 15.453385,
+   "lng": 73.801315,
+   "details": {}
+  },
+  {
+   "name": "Divyaranjan Park",
+   "category": "park",
+   "lat": 15.515154,
+   "lng": 73.83694,
+   "details": {}
+  },
+  {
+   "name": "Dolphin Boat Tours",
+   "category": "attraction",
+   "lat": 15.49734,
+   "lng": 73.781585,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Don Bosco Shrine",
+   "category": "church",
+   "lat": 15.496823,
+   "lng": 73.82126,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Dona Paula Chapel",
+   "category": "church",
+   "lat": 15.455168,
+   "lng": 73.80335,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Dona Paula Pier",
+   "category": "attraction",
+   "lat": 15.451164,
+   "lng": 73.803518,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Dona paula",
+   "category": "art",
+   "lat": 15.450527,
+   "lng": 73.803064,
+   "details": {
+    "wikipedia": "en:Dona Paula",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Dr. Jack de Sequeira",
+   "category": "historic",
+   "lat": 15.544042,
+   "lng": 73.765118,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Family nativity church",
+   "category": "church",
+   "lat": 15.532291,
+   "lng": 73.824161,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Fontainhas Viewpoint",
+   "category": "viewpoint",
+   "lat": 15.496612,
+   "lng": 73.83054,
+   "details": {
+    "tourism": "viewpoint"
+   }
+  },
+  {
+   "name": "Fort Aguada",
+   "category": "attraction",
+   "lat": 15.492416,
+   "lng": 73.773932,
+   "details": {
+    "tourism": "attraction",
+    "historic": "fort"
+   }
+  },
+  {
+   "name": "Fort Aguada",
+   "category": "historic",
+   "lat": 15.492311,
+   "lng": 73.774034,
+   "details": {
+    "opening_hours": "Mo-Su 09:00-17:30",
+    "website": "https://aguada-fort.business.site",
+    "historic": "castle"
+   }
+  },
+  {
+   "name": "Francisco Luis Gomes",
+   "category": "art",
+   "lat": 15.49591,
+   "lng": 73.819329,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Francisco Luis Gomes Garden",
+   "category": "park",
+   "lat": 15.495902,
+   "lng": 73.819301,
+   "details": {
+    "opening_hours": "24/7",
+    "description": "City park with bandstands, statue and markers of trees."
+   }
+  },
+  {
+   "name": "Galeria Azulejos De Goa",
+   "category": "art",
+   "lat": 15.544012,
+   "lng": 73.76501,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Galeria Azulejos De Goa",
+   "category": "art",
+   "lat": 15.500771,
+   "lng": 73.828922,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Ganapathi Devasthan",
+   "category": "temple",
+   "lat": 15.531355,
+   "lng": 73.842059,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ganapati Panchayatan Saunsthan",
+   "category": "temple",
+   "lat": 15.4037,
+   "lng": 73.802441,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Gitanjali",
+   "category": "art",
+   "lat": 15.495268,
+   "lng": 73.831382,
+   "details": {
+    "tourism": "gallery"
+   }
+  },
+  {
+   "name": "Goa Museum",
+   "category": "museum",
+   "lat": 15.500671,
+   "lng": 73.830033,
+   "details": {
+    "website": "https://goamuseum.gov.in/",
+    "tourism": "museum"
+   }
+  },
+  {
+   "name": "Goa Velha Church",
+   "category": "church",
+   "lat": 15.440109,
+   "lng": 73.87073,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Grandmother's Hole Beach",
+   "category": "attraction",
+   "lat": 15.405988,
+   "lng": 73.786356,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Gurdwara Shri Guru Singh Sabha",
+   "category": "gurudwara",
+   "lat": 15.506783,
+   "lng": 73.828289,
+   "details": {
+    "religion": "sikh"
+   }
+  },
+  {
+   "name": "Hanuman Mandir",
+   "category": "worship",
+   "lat": 15.512491,
+   "lng": 73.842931,
+   "details": {}
+  },
+  {
+   "name": "Hanuman temple",
+   "category": "historic",
+   "lat": 15.489733,
+   "lng": 73.828496,
+   "details": {
+    "historic": "monument"
+   }
+  },
+  {
+   "name": "Hawaii Beach",
+   "category": "beach",
+   "lat": 15.454727,
+   "lng": 73.805504,
+   "details": {}
+  },
+  {
+   "name": "Henry the Navigator Marker",
+   "category": "historic",
+   "lat": 15.493916,
+   "lng": 73.818442,
+   "details": {
+    "historic": "monument"
+   }
+  },
+  {
+   "name": "Herbal and Butterfly Garden",
+   "category": "park",
+   "lat": 15.523881,
+   "lng": 73.832494,
+   "details": {}
+  },
+  {
+   "name": "Holy Cross Chapel",
+   "category": "church",
+   "lat": 15.518004,
+   "lng": 73.832085,
+   "details": {
+    "religion": "christian"
+   }
+  }
+ ]
+}

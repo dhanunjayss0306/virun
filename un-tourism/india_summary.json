@@ -1,0 +1,65 @@
+{
+  "country": "India",
+  "source": "UN Tourism bulk download 05_2026",
+  "unit": "values as reported (arrivals/trips in persons; expenditure in USD millions \u2014 verify per file)",
+  "inbound_arrivals_total": {
+    "2017": 15543,
+    "2018": 17423,
+    "2019": 17914,
+    "2020": 2745,
+    "2021": 1528,
+    "2022": 6437,
+    "2023": 9521,
+    "2024": 9952
+  },
+  "inbound_expenditure_indicator": "inbound - expenditure - balance of payments - travel - visitors",
+  "inbound_expenditure": {
+    "2017": 27365,
+    "2018": 28568,
+    "2019": 30720,
+    "2020": 13036,
+    "2021": 8650,
+    "2022": 21360,
+    "2023": 32189,
+    "2024": 35017
+  },
+  "outbound_departures_indicator": "outbound - trips - total - total - overnight visitors (tourists)",
+  "outbound_departures": {
+    "2015": 20376,
+    "2016": 21872,
+    "2019": 26689,
+    "2020": 7117,
+    "2021": 8397,
+    "2022": 21305,
+    "2023": 27513,
+    "2024": 30446
+  },
+  "domestic_trips": "no India rows in file",
+  "top_source_markets_year": 2024,
+  "top_source_markets": [
+    {
+      "market": "Europe (UNWTO total)",
+      "arrivals": 2620
+    },
+    {
+      "market": "South Asia (UNWTO total)",
+      "arrivals": 2366
+    },
+    {
+      "market": "Americas (UNWTO total)",
+      "arrivals": 2357
+    },
+    {
+      "market": "East Asia and the Pacific (UNWTO total)",
+      "arrivals": 1841
+    },
+    {
+      "market": "Africa (UNWTO total)",
+      "arrivals": 336
+    },
+    {
+      "market": "Middle East (UNWTO total)",
+      "arrivals": 293
+    }
+  ]
+}

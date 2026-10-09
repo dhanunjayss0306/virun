@@ -27,6 +27,10 @@ virun-assets/
   source URL is in `manifest.json` — wire that into your credits screen.
 - **`ui-art/`** images are AI-generated for this project: no attribution
   needed, safe to use anywhere including commercial.
+- **`un-tourism/`** — UN Tourism official bulk statistics (05_2026): 15 Excel
+  files of country-level tourism data + `india_summary.json` (India arrivals,
+  expenditure, source markets 2017–2024, extracted for the gov dashboard and
+  pitch deck). See `un-tourism/DATA_README.md`.
 
 Do NOT mix these up: Commons photos always need credit; AI art never does.
 

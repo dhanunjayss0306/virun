@@ -1,0 +1,609 @@
+{
+ "city": "visakhapatnam",
+ "count": 72,
+ "source": "OpenStreetMap (c) contributors, ODbL",
+ "pois": [
+  {
+   "name": "Abhaya Anjaneya Temple",
+   "category": "temple",
+   "lat": 17.740736,
+   "lng": 83.243072,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ambedkar",
+   "category": "art",
+   "lat": 17.6849,
+   "lng": 83.167222,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Ambedkar",
+   "category": "art",
+   "lat": 17.742882,
+   "lng": 83.235982,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Ambedkar Park",
+   "category": "park",
+   "lat": 17.657046,
+   "lng": 83.149832,
+   "details": {}
+  },
+  {
+   "name": "Ayyappa Swamy Temple",
+   "category": "temple",
+   "lat": 17.676987,
+   "lng": 83.201429,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ayyappa temple",
+   "category": "temple",
+   "lat": 17.719775,
+   "lng": 83.203237,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Babu Jag Jeevan Rao Park",
+   "category": "park",
+   "lat": 17.65195,
+   "lng": 83.150464,
+   "details": {}
+  },
+  {
+   "name": "Bangaramma Durgalamma Temple",
+   "category": "temple",
+   "lat": 17.74088,
+   "lng": 83.246317,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bangaramma Temple",
+   "category": "temple",
+   "lat": 17.773421,
+   "lng": 83.241964,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bhagvan Sri Satya Sai Spiritual and Service Centre",
+   "category": "temple",
+   "lat": 17.653381,
+   "lng": 83.158947,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bharat Nagar Park",
+   "category": "park",
+   "lat": 17.691589,
+   "lng": 83.162575,
+   "details": {}
+  },
+  {
+   "name": "Daralamma Temple",
+   "category": "temple",
+   "lat": 17.651466,
+   "lng": 83.261192,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Dolphin Park",
+   "category": "park",
+   "lat": 17.67113,
+   "lng": 83.282858,
+   "details": {}
+  },
+  {
+   "name": "Dolphin nose",
+   "category": "attraction",
+   "lat": 17.678456,
+   "lng": 83.29274,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Eidgah Masjid",
+   "category": "mosque",
+   "lat": 17.690284,
+   "lng": 83.231465,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Ekalavya Park",
+   "category": "park",
+   "lat": 17.650689,
+   "lng": 83.158084,
+   "details": {}
+  },
+  {
+   "name": "FOUNTAIN PARK",
+   "category": "park",
+   "lat": 17.742797,
+   "lng": 83.235485,
+   "details": {}
+  },
+  {
+   "name": "Gandhi Park",
+   "category": "park",
+   "lat": 17.648324,
+   "lng": 83.175399,
+   "details": {}
+  },
+  {
+   "name": "Good Shepherd Lutheran Church",
+   "category": "church",
+   "lat": 17.691105,
+   "lng": 83.228888,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Grace Baptist Church",
+   "category": "church",
+   "lat": 17.702501,
+   "lng": 83.155503,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Gurram Jashua Park",
+   "category": "park",
+   "lat": 17.657553,
+   "lng": 83.162423,
+   "details": {}
+  },
+  {
+   "name": "Hanuman Statue",
+   "category": "temple",
+   "lat": 17.665961,
+   "lng": 83.278655,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Hanuman Temple",
+   "category": "temple",
+   "lat": 17.688516,
+   "lng": 83.245314,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Hindu temple",
+   "category": "worship",
+   "lat": 17.775994,
+   "lng": 83.216705,
+   "details": {}
+  },
+  {
+   "name": "Holy Cross Catholic Church",
+   "category": "church",
+   "lat": 17.688698,
+   "lng": 83.204724,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Koneru",
+   "category": "temple",
+   "lat": 17.777024,
+   "lng": 83.246665,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "LEFI - Laymen's Evangelical Fellowship",
+   "category": "church",
+   "lat": 17.681223,
+   "lng": 83.192031,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Little Flock Churcg",
+   "category": "church",
+   "lat": 17.678086,
+   "lng": 83.21517,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Lord Hanuman Temple",
+   "category": "temple",
+   "lat": 17.768073,
+   "lng": 83.246571,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Lord Shiva Temple",
+   "category": "temple",
+   "lat": 17.742436,
+   "lng": 83.235576,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Maridimamba Temple",
+   "category": "temple",
+   "lat": 17.656471,
+   "lng": 83.154391,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Meghadri Gedda Reservoir View point",
+   "category": "attraction",
+   "lat": 17.759747,
+   "lng": 83.195221,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Nehru Park",
+   "category": "park",
+   "lat": 17.663067,
+   "lng": 83.164049,
+   "details": {}
+  },
+  {
+   "name": "Padmavathi Nagar",
+   "category": "park",
+   "lat": 17.775548,
+   "lng": 83.232309,
+   "details": {}
+  },
+  {
+   "name": "Play Grounds",
+   "category": "park",
+   "lat": 17.689937,
+   "lng": 83.164336,
+   "details": {}
+  },
+  {
+   "name": "Pyditallamma Temple",
+   "category": "temple",
+   "lat": 17.772562,
+   "lng": 83.241659,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "RAMU",
+   "category": "temple",
+   "lat": 17.696787,
+   "lng": 83.208203,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ramalayam Temple",
+   "category": "temple",
+   "lat": 17.740228,
+   "lng": 83.242694,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Sagara Giri Kanaka Durgamma Ammavari Temple",
+   "category": "temple",
+   "lat": 17.682721,
+   "lng": 83.290022,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Sector 2 Childrens Park ( Bala Udyan )",
+   "category": "park",
+   "lat": 17.655129,
+   "lng": 83.157532,
+   "details": {}
+  },
+  {
+   "name": "Shanthi Nagar Park",
+   "category": "park",
+   "lat": 17.74352,
+   "lng": 83.238424,
+   "details": {}
+  },
+  {
+   "name": "Shivalayam",
+   "category": "temple",
+   "lat": 17.676805,
+   "lng": 83.201063,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Shri Shiridi Sai Temple",
+   "category": "temple",
+   "lat": 17.767761,
+   "lng": 83.222215,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Sri Bhusametha Vijaya Venkateswara Swamy Temple",
+   "category": "temple",
+   "lat": 17.74712,
+   "lng": 83.249925,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Sri Kalyana Venkateswara Swami Temple",
+   "category": "temple",
+   "lat": 17.676303,
+   "lng": 83.209344,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Sri Krishna Devaraya Vijaya Sthup",
+   "category": "historic",
+   "lat": 17.768918,
+   "lng": 83.247783,
+   "details": {
+    "historic": "monument"
+   }
+  },
+  {
+   "name": "Sri Venkateswara Swamy Temple",
+   "category": "temple",
+   "lat": 17.689239,
+   "lng": 83.288979,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Sri Venkateswara Swamy Temple",
+   "category": "temple",
+   "lat": 17.77016,
+   "lng": 83.243623,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "St. Thomas Church",
+   "category": "church",
+   "lat": 17.744114,
+   "lng": 83.232408,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Subramanyam Swamy temple",
+   "category": "temple",
+   "lat": 17.741697,
+   "lng": 83.238154,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Swami Vivekananda",
+   "category": "art",
+   "lat": 17.689247,
+   "lng": 83.222808,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Taha Masjid",
+   "category": "mosque",
+   "lat": 17.748887,
+   "lng": 83.219389,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Temple Garden",
+   "category": "park",
+   "lat": 17.76685,
+   "lng": 83.249526,
+   "details": {}
+  },
+  {
+   "name": "The Church of Jesus Christ of Latter-Day Saints",
+   "category": "church",
+   "lat": 17.742843,
+   "lng": 83.234323,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "United Baptist Church Malkapuram",
+   "category": "church",
+   "lat": 17.688493,
+   "lng": 83.242711,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "United Christ Church",
+   "category": "church",
+   "lat": 17.742133,
+   "lng": 83.234707,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Venkateshwara Swamy Temple",
+   "category": "temple",
+   "lat": 17.644157,
+   "lng": 83.158155,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Venkateshwara swamy Temple",
+   "category": "temple",
+   "lat": 17.67776,
+   "lng": 83.204146,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Vinakaya Temple",
+   "category": "temple",
+   "lat": 17.682914,
+   "lng": 83.153825,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Vinayaka Temple",
+   "category": "temple",
+   "lat": 17.746114,
+   "lng": 83.246263,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Vinayaka temple",
+   "category": "temple",
+   "lat": 17.688769,
+   "lng": 83.200171,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Yarada masjid",
+   "category": "mosque",
+   "lat": 17.680641,
+   "lng": 83.29216,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "colony park",
+   "category": "park",
+   "lat": 17.689428,
+   "lng": 83.164966,
+   "details": {}
+  },
+  {
+   "name": "colony park",
+   "category": "park",
+   "lat": 17.694591,
+   "lng": 83.162685,
+   "details": {}
+  },
+  {
+   "name": "gym park",
+   "category": "park",
+   "lat": 17.688573,
+   "lng": 83.158918,
+   "details": {}
+  },
+  {
+   "name": "hanuman temple",
+   "category": "temple",
+   "lat": 17.688874,
+   "lng": 83.222669,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "lanka grounds",
+   "category": "park",
+   "lat": 17.684222,
+   "lng": 83.200457,
+   "details": {}
+  },
+  {
+   "name": "park",
+   "category": "park",
+   "lat": 17.745942,
+   "lng": 83.243995,
+   "details": {}
+  },
+  {
+   "name": "pylon",
+   "category": "park",
+   "lat": 17.684923,
+   "lng": 83.168044,
+   "details": {}
+  },
+  {
+   "name": "sai baba temple",
+   "category": "temple",
+   "lat": 17.743996,
+   "lng": 83.237354,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "water tank park",
+   "category": "park",
+   "lat": 17.689806,
+   "lng": 83.158623,
+   "details": {}
+  },
+  {
+   "name": "yarada Beach",
+   "category": "beach",
+   "lat": 17.653559,
+   "lng": 83.266598,
+   "details": {}
+  }
+ ]
+}

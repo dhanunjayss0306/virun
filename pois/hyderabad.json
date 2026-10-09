@@ -1,0 +1,698 @@
+{
+ "city": "hyderabad",
+ "count": 80,
+ "source": "OpenStreetMap (c) contributors, ODbL",
+ "pois": [
+  {
+   "name": "18 Steps",
+   "category": "historic",
+   "lat": 17.38974,
+   "lng": 78.395062,
+   "details": {
+    "historic": "archaeological_site"
+   }
+  },
+  {
+   "name": "A-B",
+   "category": "park",
+   "lat": 17.311888,
+   "lng": 78.51952,
+   "details": {}
+  },
+  {
+   "name": "ABU BAKAR MASJID",
+   "category": "mosque",
+   "lat": 17.451081,
+   "lng": 78.524808,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "ABU BAKR MASJID",
+   "category": "mosque",
+   "lat": 17.451079,
+   "lng": 78.524811,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "AG Colony Park-2",
+   "category": "park",
+   "lat": 17.446915,
+   "lng": 78.428634,
+   "details": {}
+  },
+  {
+   "name": "ASRA MASJID",
+   "category": "mosque",
+   "lat": 17.449265,
+   "lng": 78.537008,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "AYYAPPA TEMPLE",
+   "category": "temple",
+   "lat": 17.349182,
+   "lng": 78.528506,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "AYYAPPA TEMPLE",
+   "category": "temple",
+   "lat": 17.397134,
+   "lng": 78.517117,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Aai Mataji Temple",
+   "category": "temple",
+   "lat": 17.42232,
+   "lng": 78.510705,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Aanjaneya swamy temple",
+   "category": "worship",
+   "lat": 17.392094,
+   "lng": 78.514828,
+   "details": {}
+  },
+  {
+   "name": "Abhaya Anjaneya Temple",
+   "category": "temple",
+   "lat": 17.408501,
+   "lng": 78.510051,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Abhyudaya Nagar Community Hall",
+   "category": "park",
+   "lat": 17.346925,
+   "lng": 78.380752,
+   "details": {}
+  },
+  {
+   "name": "Adarsh Nagar Park",
+   "category": "park",
+   "lat": 17.404794,
+   "lng": 78.47013,
+   "details": {}
+  },
+  {
+   "name": "Afzalgunj Masjid",
+   "category": "mosque",
+   "lat": 17.376215,
+   "lng": 78.473918,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Agri Biodiversity Park",
+   "category": "park",
+   "lat": 17.310378,
+   "lng": 78.415509,
+   "details": {}
+  },
+  {
+   "name": "Akaashpuri Hanuman Temple",
+   "category": "temple",
+   "lat": 17.376823,
+   "lng": 78.453833,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Akkaanna Madanna Temple",
+   "category": "worship",
+   "lat": 17.351903,
+   "lng": 78.476245,
+   "details": {}
+  },
+  {
+   "name": "Al Madina Jamia Masjid",
+   "category": "mosque",
+   "lat": 17.422883,
+   "lng": 78.511686,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Alam Thota Park",
+   "category": "park",
+   "lat": 17.442194,
+   "lng": 78.463451,
+   "details": {}
+  },
+  {
+   "name": "Alamgiri",
+   "category": "mosque",
+   "lat": 17.398347,
+   "lng": 78.456823,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "All in one temple",
+   "category": "temple",
+   "lat": 17.391871,
+   "lng": 78.434994,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Alluri Sitaramaraju",
+   "category": "art",
+   "lat": 17.420219,
+   "lng": 78.483689,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Alwal Childran's Park",
+   "category": "park",
+   "lat": 17.499325,
+   "lng": 78.5102,
+   "details": {}
+  },
+  {
+   "name": "Amar Jawan Memorial",
+   "category": "historic",
+   "lat": 17.443911,
+   "lng": 78.491249,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Amar Jyothi Amar Jawan",
+   "category": "historic",
+   "lat": 17.493854,
+   "lng": 78.520827,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Ambedkar Statue",
+   "category": "historic",
+   "lat": 17.47558,
+   "lng": 78.485656,
+   "details": {
+    "description": "Hasmathpet, Oldbowenpally",
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Ambedkar Statue",
+   "category": "art",
+   "lat": 17.463766,
+   "lng": 78.475424,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Ambedkar Statue",
+   "category": "historic",
+   "lat": 17.401514,
+   "lng": 78.560191,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Ambedkar Statue",
+   "category": "historic",
+   "lat": 17.391981,
+   "lng": 78.516141,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Ambedkar Statue, Boduppal",
+   "category": "historic",
+   "lat": 17.418368,
+   "lng": 78.584563,
+   "details": {
+    "historic": "monument"
+   }
+  },
+  {
+   "name": "Amberpet Mosque - Darga Amber Baba",
+   "category": "mosque",
+   "lat": 17.391987,
+   "lng": 78.519103,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Amberpet T Jn",
+   "category": "park",
+   "lat": 17.392094,
+   "lng": 78.516364,
+   "details": {}
+  },
+  {
+   "name": "Anjaneya Swami Temple",
+   "category": "temple",
+   "lat": 17.439961,
+   "lng": 78.395884,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Annapurna Studios",
+   "category": "attraction",
+   "lat": 17.428511,
+   "lng": 78.42369,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Army Childrens park",
+   "category": "park",
+   "lat": 17.488488,
+   "lng": 78.508438,
+   "details": {}
+  },
+  {
+   "name": "Arogya Sanjeevani Vanam (Park)",
+   "category": "park",
+   "lat": 17.299735,
+   "lng": 78.580691,
+   "details": {
+    "opening_hours": "Mo-Su 5:30-9AM, 4-6:00PM"
+   }
+  },
+  {
+   "name": "Arthur Cotton",
+   "category": "art",
+   "lat": 17.419797,
+   "lng": 78.483324,
+   "details": {
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "Arts College",
+   "category": "historic",
+   "lat": 17.419202,
+   "lng": 78.52631,
+   "details": {
+    "historic": "monument"
+   }
+  },
+  {
+   "name": "Asthalaxmi Temple",
+   "category": "temple",
+   "lat": 17.365025,
+   "lng": 78.547086,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Autonagar",
+   "category": "mosque",
+   "lat": 17.335614,
+   "lng": 78.579203,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Avatar Meher Baba Hyderabad Centre",
+   "category": "worship",
+   "lat": 17.444805,
+   "lng": 78.401638,
+   "details": {
+    "description": "Avatar Meher Baba Hyderabad Center",
+    "religion": "multifaith"
+   }
+  },
+  {
+   "name": "Avatar Meher Baba Koti Center",
+   "category": "worship",
+   "lat": 17.382157,
+   "lng": 78.488309,
+   "details": {
+    "website": "http://avatarmeher.org",
+    "religion": "multifaith"
+   }
+  },
+  {
+   "name": "Ayappa Swamy Temple",
+   "category": "temple",
+   "lat": 17.472625,
+   "lng": 78.565533,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ayyappa Society Park",
+   "category": "park",
+   "lat": 17.447118,
+   "lng": 78.393246,
+   "details": {}
+  },
+  {
+   "name": "Ayyappa Society Park",
+   "category": "park",
+   "lat": 17.447032,
+   "lng": 78.391006,
+   "details": {}
+  },
+  {
+   "name": "Ayyappa Society Park",
+   "category": "park",
+   "lat": 17.450977,
+   "lng": 78.39248,
+   "details": {}
+  },
+  {
+   "name": "Ayyappa Swamy Temple",
+   "category": "temple",
+   "lat": 17.44609,
+   "lng": 78.545408,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ayyappa Temple",
+   "category": "temple",
+   "lat": 17.310335,
+   "lng": 78.443186,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ayyappa Temple",
+   "category": "attraction",
+   "lat": 17.447034,
+   "lng": 78.447842,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "Ayyappa Temple",
+   "category": "temple",
+   "lat": 17.496531,
+   "lng": 78.453348,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ayyappa Temple",
+   "category": "worship",
+   "lat": 17.489316,
+   "lng": 78.517608,
+   "details": {}
+  },
+  {
+   "name": "Ayyappa temple",
+   "category": "temple",
+   "lat": 17.413809,
+   "lng": 78.573603,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Aza Khana E Zehra",
+   "category": "mosque",
+   "lat": 17.372809,
+   "lng": 78.482341,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "B M Birla Planetarium",
+   "category": "museum",
+   "lat": 17.403323,
+   "lng": 78.470717,
+   "details": {
+    "tourism": "museum"
+   }
+  },
+  {
+   "name": "B M Birla Science Museum",
+   "category": "museum",
+   "lat": 17.403312,
+   "lng": 78.469528,
+   "details": {
+    "website": "http://www.birlasciencemuseum.org",
+    "wikipedia": "en:Birla Science Museum",
+    "tourism": "museum"
+   }
+  },
+  {
+   "name": "B R Ambedkar Statue",
+   "category": "historic",
+   "lat": 17.411047,
+   "lng": 78.468148,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "B-91, HAL Township",
+   "category": "attraction",
+   "lat": 17.470111,
+   "lng": 78.452107,
+   "details": {
+    "tourism": "attraction"
+   }
+  },
+  {
+   "name": "B.R. Ambedkar",
+   "category": "art",
+   "lat": 17.426863,
+   "lng": 78.452781,
+   "details": {
+    "description": "Inaugurated by Sri Koppula Eswar",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "name": "B.R.Ambedkar Statue",
+   "category": "museum",
+   "lat": 17.41327,
+   "lng": 78.467398,
+   "details": {
+    "tourism": "museum"
+   }
+  },
+  {
+   "name": "BK Guda Mazid",
+   "category": "mosque",
+   "lat": 17.445505,
+   "lng": 78.444074,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "BR Ambedkar Statue",
+   "category": "historic",
+   "lat": 17.495179,
+   "lng": 78.391815,
+   "details": {
+    "historic": "monument"
+   }
+  },
+  {
+   "name": "Baba shah miskeen shah quadri dargah",
+   "category": "mosque",
+   "lat": 17.465208,
+   "lng": 78.473,
+   "details": {
+    "religion": "muslim"
+   }
+  },
+  {
+   "name": "Baba temple",
+   "category": "temple",
+   "lat": 17.496814,
+   "lng": 78.459419,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bada Ganesh",
+   "category": "temple",
+   "lat": 17.41077,
+   "lng": 78.464037,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Badminton court",
+   "category": "park",
+   "lat": 17.354443,
+   "lng": 78.569204,
+   "details": {}
+  },
+  {
+   "name": "Balaji Temple",
+   "category": "temple",
+   "lat": 17.377245,
+   "lng": 78.437869,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Balaji Temple",
+   "category": "temple",
+   "lat": 17.410672,
+   "lng": 78.571187,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Ballari Raghav",
+   "category": "historic",
+   "lat": 17.421492,
+   "lng": 78.484702,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Bangaru Maisamma Temple, Boduppal",
+   "category": "temple",
+   "lat": 17.420625,
+   "lng": 78.585234,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bank Street Amma (Mata) Mandir",
+   "category": "temple",
+   "lat": 17.386332,
+   "lng": 78.481074,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Bank of Baroda Colony Park",
+   "category": "park",
+   "lat": 17.415012,
+   "lng": 78.495014,
+   "details": {}
+  },
+  {
+   "name": "Bapist Church",
+   "category": "church",
+   "lat": 17.370219,
+   "lng": 78.520958,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Baptist",
+   "category": "church",
+   "lat": 17.396122,
+   "lng": 78.489357,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Baptist Church",
+   "category": "church",
+   "lat": 17.396108,
+   "lng": 78.489357,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Baptist Church",
+   "category": "church",
+   "lat": 17.420548,
+   "lng": 78.493649,
+   "details": {
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Bapu Ghat",
+   "category": "historic",
+   "lat": 17.372583,
+   "lng": 78.413601,
+   "details": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "name": "Barkatpura Chaman",
+   "category": "park",
+   "lat": 17.392591,
+   "lng": 78.496946,
+   "details": {}
+  },
+  {
+   "name": "Basheerbagh Durga Temple",
+   "category": "temple",
+   "lat": 17.400874,
+   "lng": 78.475742,
+   "details": {
+    "religion": "hindu"
+   }
+  },
+  {
+   "name": "Basilica of Our Lady of the Assumption",
+   "category": "church",
+   "lat": 17.442268,
+   "lng": 78.50221,
+   "details": {
+    "wikipedia": "en:Basilica of Our Lady of the Assumption, Secunderabad",
+    "religion": "christian"
+   }
+  },
+  {
+   "name": "Bee Saheba Masjid",
+   "category": "mosque",
+   "lat": 17.359433,
+   "lng": 78.441248,
+   "details": {
+    "religion": "muslim"
+   }
+  }
+ ]
+}

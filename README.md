@@ -31,6 +31,19 @@ virun-assets/
   files of country-level tourism data + `india_summary.json` (India arrivals,
   expenditure, source markets 2017–2024, extracted for the gov dashboard and
   pitch deck). See `un-tourism/DATA_README.md`.
+- **`pois/`** — 312 real points of interest (Kashmir 80, Goa 80, Hyderabad 80,
+  Visakhapatnam 72) from OpenStreetMap: name, category, lat/lng, hours/fees/
+  website where mapped. ODbL — credit "© OpenStreetMap contributors".
+  See `pois/README.md`.
+- **`hotels/`** — 320 real accommodations (80 per city) from OpenStreetMap:
+  name, type, lat/lng, stars/rooms/phone/website where mapped. **No prices or
+  availability** — pair with a booking API at runtime. ODbL — same credit.
+  See `hotels/README.md`.
+- **`gov-data/`** — official Indian tourism statistics for the gov dashboard:
+  state-wise domestic + foreign tourist visits 2023–2024 for all 36 States/UTs
+  (millions), extracted from Ministry of Tourism's India Tourism Data
+  Compendium 2025, Table 4.1.2. Cite the Ministry as source. See
+  `gov-data/README.md`.
 
 Do NOT mix these up: Commons photos always need credit; AI art never does.
 

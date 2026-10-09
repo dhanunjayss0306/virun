@@ -274,5 +274,123 @@
       "use": "decorative divider strip / section banner",
       "note": "AI-generated, no attribution needed"
     }
-  ]
+  ],
+  "pois": {
+    "total": 312,
+    "source": "OpenStreetMap (c) contributors, ODbL — credit required",
+    "cities": {
+      "kashmir": {
+        "file": "pois/kashmir.json",
+        "count": 80,
+        "categories": {
+          "historic": 4,
+          "mosque": 33,
+          "park": 30,
+          "worship": 2,
+          "church": 1,
+          "attraction": 5,
+          "temple": 3,
+          "viewpoint": 1,
+          "museum": 1
+        }
+      },
+      "goa": {
+        "file": "pois/goa.json",
+        "count": 80,
+        "categories": {
+          "historic": 7,
+          "art": 12,
+          "beach": 12,
+          "attraction": 10,
+          "museum": 3,
+          "park": 12,
+          "church": 17,
+          "temple": 3,
+          "viewpoint": 2,
+          "gurudwara": 1,
+          "worship": 1
+        }
+      },
+      "hyderabad": {
+        "file": "pois/hyderabad.json",
+        "count": 80,
+        "categories": {
+          "historic": 12,
+          "park": 16,
+          "mosque": 12,
+          "temple": 20,
+          "worship": 5,
+          "art": 4,
+          "attraction": 3,
+          "museum": 3,
+          "church": 5
+        }
+      },
+      "visakhapatnam": {
+        "file": "pois/visakhapatnam.json",
+        "count": 72,
+        "categories": {
+          "temple": 31,
+          "art": 3,
+          "park": 21,
+          "attraction": 2,
+          "mosque": 3,
+          "church": 9,
+          "worship": 1,
+          "historic": 1,
+          "beach": 1
+        }
+      }
+    }
+  },
+  "hotels": {
+    "total": 320,
+    "type_mix": {
+      "hotel": 176,
+      "guest_house": 76,
+      "apartment": 25,
+      "hostel": 40,
+      "motel": 2,
+      "chalet": 1
+    },
+    "source": "OpenStreetMap (c) contributors, ODbL — credit required",
+    "note": "Place/location/contact metadata only. No prices, availability, or ratings.",
+    "cities": {
+      "kashmir": {
+        "file": "hotels/kashmir.json",
+        "count": 80
+      },
+      "goa": {
+        "file": "hotels/goa.json",
+        "count": 80
+      },
+      "hyderabad": {
+        "file": "hotels/hyderabad.json",
+        "count": 80
+      },
+      "visakhapatnam": {
+        "file": "hotels/visakhapatnam.json",
+        "count": 80
+      }
+    }
+  },
+  "gov_data": {
+    "source": "Ministry of Tourism, Government of India — India Tourism Data Compendium 2025, Table 4.1.2",
+    "unit": "million visits (domestic tourist visits = DTV, foreign tourist visits = FTV)",
+    "files": {
+      "state_tourist_visits_2023_2024.json": {
+        "states_uts": 36,
+        "overall_india": {
+          "dtv_2023": 2508.818,
+          "ftv_2023": 19.241,
+          "dtv_2024": 2948.191,
+          "ftv_2024": 20.942,
+          "growth_dtv_pct_2024_23": 17.51,
+          "growth_ftv_pct_2024_23": 8.84,
+          "share_dtv_2024_pct": 100.0,
+          "share_ftv_2024_pct": 100.0
+        }
+      }
+    }
+  }
 }

@@ -11,7 +11,7 @@
 
 ## Files
 
-`pois/<city>.json` — each a list of:
+`<city>.json` — each a list of:
 ```json
 {
   "name": "Charminar",
@@ -29,7 +29,7 @@ and share-alike if you remix the data.
 
 ## How it was built
 
-`pois/build_pois.py` + `pois/build_pois2.py` query the Overpass API for
+`build_pois.py` + `build_pois2.py` query the Overpass API for
 `tourism=*`, `historic=*`, `leisure=park|garden`, `natural=beach`,
 `amenity=place_of_worship` inside per-city bounding boxes (quadrant-split to
 avoid API timeouts). No API key needed. Re-run to refresh or add cities.

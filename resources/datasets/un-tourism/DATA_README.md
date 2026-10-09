@@ -1,6 +1,6 @@
 # UN Tourism bulk data (05_2026) — what's in here
 
-Official UN Tourism statistical database, extracted 2026-10-09 into `un-tourism/`.
+Official UN Tourism statistical database, extracted 2026-10-09 into this folder.
 ~9.4MB, 15 Excel files + 3 metadata PDFs.
 
 ## Structure

@@ -1,6 +1,6 @@
 """Download ~10 freely-licensed photos per city from Wikimedia Commons API.
 
-Saves to ~/workspace/virun-assets/<city>/photos/<city>_NN.jpg
+Saves to ~/workspace/virun-assets/resources/images/<city>/photos/<city>_NN.jpg
 and writes raw_meta.json with author/license attribution.
 """
 import json, os, re, urllib.request, urllib.parse, html, time
@@ -43,7 +43,7 @@ def main():
     os.makedirs(BASE, exist_ok=True)
     meta = {}
     for city, queries in QUERIES.items():
-        cdir = os.path.join(BASE, city, "photos")
+        cdir = os.path.join(BASE, "resources", "images", city, "photos")
         os.makedirs(cdir, exist_ok=True)
         got = 0
         seen = set()
@@ -84,7 +84,7 @@ def main():
                 em = info.get("extmetadata") or {}
                 meta[fname] = {
                     "city": city,
-                    "file": "photos/" + fname,
+                    "file": "resources/images/" + city + "/photos/" + fname,
                     "source_url": info.get("descriptionurl"),
                     "author": clean_html((em.get("Artist") or {}).get("value")),
                     "license": clean_html((em.get("LicenseShortName") or {}).get("value")),

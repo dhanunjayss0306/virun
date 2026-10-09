@@ -14,7 +14,7 @@ motel 2, chalet 1.
 
 ## Files
 
-`hotels/<city>.json` — each a list of:
+`<city>.json` — each a list of:
 ```json
 {
   "name": "Abhinand Grand Hotel and Restaurant",
@@ -33,7 +33,7 @@ Data (c) **OpenStreetMap contributors**, **ODbL license**. Credit
 
 ## How it was built
 
-`hotels/build_hotels.py` queries the Overpass API for
+`build_hotels.py` queries the Overpass API for
 `tourism=hotel|guest_house|hostel|motel|resort|apartment|chalet|lodge` inside
 per-city bounding boxes. No API key needed. Re-run to refresh or add cities.
 

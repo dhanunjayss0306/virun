@@ -5,7 +5,7 @@ so not for traveler itineraries.
 
 ## Files
 
-`gov-data/state_tourist_visits_2023_2024.json` — extracted from **Table 4.1.2**
+`state_tourist_visits_2023_2024.json` — extracted from **Table 4.1.2**
 of the **India Tourism Data Compendium 2025** (Ministry of Tourism, Government
 of India). All 36 States/UTs, each with:
 

@@ -16,6 +16,7 @@ resources/
     ├── hyderabad/photos/     # 10 real photos
     ├── visakhapatnam/photos/ # 10 real photos
     └── ui-art/               # 3 AI decorative images (no attribution needed)
+    └── chatbot/              # 5 Virun bot mascot PNGs (user provided: happy, cute, cool, sleepy, glitch)
 ```
 
 ## Extracting what you need
@@ -36,6 +37,7 @@ path, author/license (photos), and category. Point your credits screen at it.
 |---|---|---|
 | `images/*/photos/` | CC BY / CC BY-SA (Wikimedia Commons) | **Credit the photographer** — authors in `manifest.json` |
 | `images/ui-art/` | AI-generated, ours | Free to use, no credit needed |
+| `images/chatbot/` | User-provided mascot art | Use as-is, never regenerate |
 | `datasets/pois/`, `datasets/hotels/` | ODbL (OpenStreetMap) | Credit "© OpenStreetMap contributors" |
 | `datasets/gov-data/`, `datasets/un-tourism/` | Public official statistics | Cite the source (MoT / UN Tourism) |
 

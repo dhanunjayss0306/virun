@@ -392,5 +392,36 @@
         }
       }
     }
+  },
+  "chatbot": {
+    "source": "User provided mascot images (Virun bot). Do not regenerate or replace.",
+    "files": [
+      {
+        "file": "resources/images/chatbot/virun-happy.png",
+        "use": "Default bot button and greetings",
+        "mood": "happy, welcoming"
+      },
+      {
+        "file": "resources/images/chatbot/virun-cute.png",
+        "use": "Chat panel header",
+        "mood": "cute, friendly"
+      },
+      {
+        "file": "resources/images/chatbot/virun-cool.png",
+        "use": "Success states, booking confirmed",
+        "mood": "cool, confident"
+      },
+      {
+        "file": "resources/images/chatbot/virun-sleepy.png",
+        "use": "Idle, waiting, loading states",
+        "mood": "sleepy, bored"
+      },
+      {
+        "file": "resources/images/chatbot/virun-glitch.png",
+        "use": "Thinking, error states",
+        "mood": "glitch, pixel"
+      }
+    ],
+    "note": "Use these exact files everywhere the Virun bot appears. Never generate substitutes."
   }
 }

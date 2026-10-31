@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Virun: A Yatra Pilot Pitch</title>
+<meta name="description" content="Virun pilot pitch for Yatra. AI trip planning with verified local guides. Prototype almost done, not launched. Pilot in Visakhapatnam and Chennai, then India, then international.">
+<style>
+:root{--bg:#FFFFFF;--ink:#1D1D1F;--muted:#6E6E73;--line:#E5E5EA;--blue:#0071E3;--soft:#F5F5F7;--warn:#FFF4E5;--warnline:#E8C87A}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;line-height:1.6}
+body.dark{background:#111112;color:#F5F5F7}
+body.dark .topbar,body.dark .card,body.dark table{background:#1C1C1E;border-color:#2C2C2E}
+body.dark .soft{background:#1C1C1E}
+body.dark .muted{color:#A1A1A6}
+.topbar{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid var(--line);padding:12px 20px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.topbar b{font-size:16px}
+.topbar span{color:var(--muted);font-size:13px}
+button.toggle{border:1px solid var(--line);background:var(--soft);color:var(--ink);padding:8px 12px;border-radius:8px;cursor:pointer;font:inherit}
+main{max-width:980px;margin:0 auto;padding:28px 20px 60px}
+h1{font-size:40px;line-height:1.15;margin:8px 0 12px;letter-spacing:-.02em}
+h2{font-size:26px;line-height:1.25;margin:36px 0 10px}
+h3{font-size:18px;margin:18px 0 6px}
+p{margin:8px 0}
+.muted{color:var(--muted)}
+.eyebrow{color:var(--blue);font-weight:700;letter-spacing:.04em;text-transform:uppercase;font-size:13px}
+.lede{font-size:19px}
+.card{border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:14px 0;background:#fff}
+.soft{background:var(--soft);border-radius:12px;padding:16px 18px;margin:14px 0}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}h1{font-size:32px}}
+.big{font-size:32px;font-weight:800;line-height:1.1}
+.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:13px;margin:2px 4px 2px 0}
+.planned{color:#8A5A00;background:var(--warn);border:1px solid var(--warnline);border-radius:8px;padding:2px 8px;font-size:13px;font-weight:700}
+table{width:100%;border-collapse:collapse;margin:12px 0;font-size:15px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:13px;text-transform:uppercase;letter-spacing:.03em;color:var(--muted)}
+.bar{height:10px;background:#E5E5EA;border-radius:6px;overflow:hidden;margin:6px 0 2px}
+.bar i{display:block;height:100%;background:var(--blue)}
+ol,ul{margin:8px 0 8px 20px;padding:0}
+li{margin:6px 0}
+a{color:var(--blue)}
+.small{font-size:14px}
+footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px}
+</style>
+</head>
+<body>
+<header class="topbar">
+<div><b>Virun</b> <span>Yatra pilot pitch, pre-read for tomorrow</span></div>
+<button class="toggle" id="themeBtn" type="button">Dark mode</button>
+</header>
+<main>
+<p class="eyebrow">Pilot pitch, not a launch announcement</p>
+<h1>Trips planned by AI, guided by a verified local.</h1>
+<p class="lede">A tourist in an unknown city should not have to trust a random blog, a generic AI answer, or a stranger at a station. Virun pairs an AI trip plan with a local guide who speaks the tourist's language, knows the place, and stays available during the trip.</p>
+
+<div class="card">
+<h2 style="margin-top:0">The ask, in one line</h2>
+<p><strong>Do not launch Virun alone. Launch it as a pilot with Yatra.</strong></p>
+<p>Alone, a new name has no trust. No tourist trusts an unknown startup, and no local trusts an unknown platform with their time and income. With Yatra, the same product gets trust, reach, and publicity from day one. That is the whole point of this pitch: Yatra builds and launches it with us, not just funds it.</p>
+<p class="small muted">Presented by P V N Dhanunjay Reddy. This is a partnership pitch, not a hackathon entry, so no team slide is included.</p>
+</div>
+
+<h2>1. Problem</h2>
+<p>Travelers in an unfamiliar city struggle to find trustworthy places to eat, stay, and visit, choose affordable transport, and understand local culture. Online content is often generic, sponsored, or outdated. Language barriers and tourist scams add risk. Solo travelers can feel uncomfortable exploring alone.</p>
+<p>What the survey answers kept repeating, in their own words: not knowing where to go, last minute hotel problems, transport stops that Google does not explain, food that does not match, and timing that falls apart. A plan alone does not fix this. A trusted local, available during the trip, does.</p>
+
+<h2>2. Research: 83 survey responses</h2>
+<p class="muted small">Source: the tourism survey form you shared, August 2026, in English, Telugu, and Roman Telugu. Percentages below are merged across all three language versions, out of 83 responses. This is a small, student heavy sample, mostly around Visakhapatnam, Hyderabad, and nearby cities. It proves a wedge, not all of India. Do not present it as national proof.</p>
+<div class="grid">
+<div class="card"><div class="big">87%</div><p><strong>want culture, not just sightseeing.</strong> 72 of 83 said they are interested in exploring the culture of places they visit.</p></div>
+<div class="card"><div class="big">87%</div><p><strong>would pay for a language matched guide.</strong> 72 of 83 said yes, or depends, mainly yes if they do not know the city.</p></div>
+<div class="card"><div class="big">52%</div><p><strong>say AI or a person depends on the trip.</strong> 43 of 83 chose depends. 40% chose in person as always best. Only 8% said AI alone is enough.</p></div>
+<div class="card"><div class="big">52% / 43%</div><p><strong>guide demand is adventure, then heritage.</strong> Adventure touring 52%, heritage places 43%, cities 5%.</p></div>
+</div>
+
+<h3>How people plan today</h3>
+<p>54% plan the trip themselves with no external help. 39% prefer unplanned adventure. For tools, Google was the most common answer, followed by ChatGPT, then travel agencies. No single tool gives a plan plus a trusted local during the trip. That gap is Virun.</p>
+
+<h3>What people will pay for a guide, 4 to 6 days, food and transport excluded</h3>
+<p><strong>Online guide:</strong> Rs 200 to 400: 27%. Rs 400 to 600: 36%. Rs 600 to 800: 22%. Rs 800 to 1000: 16%.</p>
+<div class="bar"><i style="width:63%"></i></div>
+<p class="small muted">63% are in the Rs 200 to 600 range for online help. 84% are at or below Rs 800.</p>
+<p><strong>Offline, in person guide:</strong> Rs 1000 to 1500: 33%. Rs 1500 to 2000: 28%. Rs 2000 to 2500: 28%. Rs 2500 to 3000: 12%.</p>
+<div class="bar"><i style="width:88%"></i></div>
+<p class="small muted">88% are in the Rs 1000 to 2500 range for an in person guide.</p>
+
+<h3>The hard truth about guide supply</h3>
+<div class="soft">
+<p><strong>Interest is broad, firm commitment is small.</strong> Asked if they would be a paid guide, 23% said yes and 33% said they do not mind, so 55% are open. But in the follow up question, answered by only 39 people, only 6 said yes firmly to working as a guide on the platform, while 33 said no, they just wanted to explore.</p>
+<p>This is why the Yatra pilot matters more than the app. Supply will not appear because a website exists. It will appear because a trusted brand recruits, verifies, and publicises it. Do not hide this number from Yatra. It is the reason to partner.</p>
+</div>
+
+<h2>3. Comparison: what exists, what is missing</h2>
+<p class="muted small">Virun column is planned, not live. Other columns describe the usual product, not a full audit of every feature.</p>
+<table>
+<tr><th></th><th>AI plan</th><th>Verified local</th><th>Help during trip</th><th>Safety net</th></tr>
+<tr><td><strong>Virun, planned</strong></td><td><span class="planned">Planned</span></td><td><span class="planned">Planned</span></td><td><span class="planned">Planned</span></td><td><span class="planned">Planned</span></td></tr>
+<tr><td>Google Maps</td><td>No</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>Instagram / blogs</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>ChatGPT / Gemini</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>GetYourGuide / Viator</td><td>Partial</td><td>Operators, not personal local matching</td><td>Partial</td><td>Partial</td></tr>
+<tr><td>Withlocals / ToursByLocals</td><td>No</td><td>Yes, guides</td><td>Tour only</td><td>Partial</td></tr>
+<tr><td>Travel agency</td><td>No</td><td>Agent, not local choice</td><td>Package only</td><td>Package terms</td></tr>
+</table>
+<p>Virun is not claiming no one else verifies guides. The claim is narrower: no one in this comparison combines an AI plan, a language matched local chosen before the trip, and in trip help in one place for Indian cities at this price point.</p>
+
+<h2>4. What is built, and what is not</h2>
+<div class="grid">
+<div class="card"><h3 style="margin-top:0">Almost done: the planner prototype</h3>
+<p>From the Virun repo at github.com/KinGMssN/virun, checked 31 October 2026:</p>
+<ul>
+<li>Static frontend plus FastAPI backend, with route planning, trip recovery, transport listing, and natural language trip parsing.</li>
+<li>AI stay suggestions and place lookup, with real OpenStreetMap place names where available.</li>
+<li>Train schedule lookup, with fares and booking clearly not supplied by that provider.</li>
+<li>Demo destinations in the repo: Kashmir, Goa, Hyderabad, Visakhapatnam, Mumbai, Delhi, Bengaluru.</li>
+<li>Supabase sign in integrated in code, but live verification is still pending.</li>
+</ul>
+<p class="small muted">This is a demo and planner, not a launched product.</p></div>
+<div class="card"><h3 style="margin-top:0">Not done, to build with Yatra</h3>
+<ul>
+<li><span class="planned">Planned</span> Guide verification and KYC, with roles enforced on the server.</li>
+<li><span class="planned">Planned</span> Booking, with confirmation, cancellation, and status sync.</li>
+<li><span class="planned">Planned</span> Payment and escrow, with a real payment processor, refunds, and verified webhooks.</li>
+<li><span class="planned">Planned</span> Live bus schedules, fares, and inventory from a contracted provider.</li>
+<li><span class="planned">Planned</span> Production deployment, monitoring, backups, support contact, and data retention rules.</li>
+<li><span class="planned">Planned</span> Guide discovery, trip chat, trip tracking, and SOS as live services. In the repo today these are sample or preview flows only.</li>
+</ul>
+<p class="small muted">Do not show Yatra a KYC, escrow, or SOS screen as if it is live. Show it as the next build, with Yatra.</p></div>
+</div>
+<p><strong>Tech stack decision:</strong> to be made together with the Yatra team. This pitch does not ask Yatra to accept a solo stack. The goal is a real working prototype built by a collaborating team, not a solo build presented as finished.</p>
+
+<h2>5. How Virun would work, in the pilot</h2>
+<ol>
+<li><strong>Tourist chooses destination, language, budget, and interests.</strong> AI creates a first trip plan.</li>
+<li><strong>Tourist matches a verified local guide</strong> by language, place knowledge, and online or in person mode.</li>
+<li><strong>Guide reviews and personalises the plan,</strong> with food, transport, hidden places, and local experience.</li>
+<li><strong>During the trip, the guide stays available</strong> through the platform, with contact details protected.</li>
+<li><strong>Payment, safety, and reviews</strong> run through the platform, once the Yatra built payment and verification work is live.</li>
+</ol>
+
+<h2>6. Market opportunity</h2>
+<div class="grid">
+<div class="card"><div class="big">2.95 billion</div><p>domestic tourist visits in India in 2024, plus 20.94 million foreign tourist visits, from the business plan document.</p></div>
+<div class="card"><div class="big">$23.34 billion</div><p>Indian online travel market estimated for 2025, from the same document. Tourism has money, and online booking is already normal.</p></div>
+<div class="card"><div class="big">Rs 9,750 crore</div><p>SAM, serviceable addressable market, from the business plan document.</p></div>
+<div class="card"><div class="big">Rs 97.5 crore</div><p>SOM, serviceable obtainable market, from the same document, which is 1% of that SAM. Treat this as a target to validate in the pilot, not a forecast.</p></div>
+</div>
+<p class="small muted">Global context from the earlier pitch, kept separate: global tours and activities TAM was shown as $271 billion, rising to about $342 billion by 2029. The India numbers above are the pilot case. Do not mix the two into one total.</p>
+<p><strong>Why Yatra wins too:</strong> no one has started this combination at scale in India in this form, in the research shared. Yatra already has the trust and the audience. A Yatra launched local guide product adds a new service, new guide income, and new reasons for tourists to stay inside Yatra, while also creating local employment, not just tourism bookings.</p>
+
+<h2>7. Feasibility: pilot first, then scale</h2>
+<ol>
+<li><strong>Pilot: Visakhapatnam and Chennai.</strong> Recruit and verify a first set of guides, launch with Yatra listing and publicity, and measure real bookings, repeat use, guide retention, and complaints.</li>
+<li><strong>India:</strong> expand city by city only where guide supply and verification hold up. Do not expand on bookings alone.</li>
+<li><strong>International:</strong> only after the India pilot proves guide quality, safety, and payment at scale.</li>
+</ol>
+<p class="small muted">Note: Visakhapatnam is already a demo destination in the repo. Chennai is a pilot city for tomorrow, not yet a demo destination in the repo. Say so if asked.</p>
+<p><strong>Pilot success measures:</strong> verified guides onboarded, first bookings completed, guide repeat rate, tourist repeat or referral rate, safety issues and resolution time, and guide income per trip. Set targets with Yatra after the first guide interviews, not before.</p>
+
+<h2>8. Revenue: proposed, not fixed</h2>
+<p>The founder is clear on this point: the take rate is not fixed yet, and should be agreed with Yatra. The survey gives the demand signal, not the price.</p>
+<ul>
+<li><strong>Trip plans:</strong> pay per trip for occasional travelers.</li>
+<li><strong>Subscription:</strong> for frequent travelers, with no extra trip plan charge beyond the guide fee.</li>
+<li><strong>Partner income:</strong> collaborations with local restaurants and hotels, from the business plan document.</li>
+<li><strong>Guide commission:</strong> to be set with Yatra, after pilot costs and guide income are known. Earlier pitch drafts used 15 to 20% as an illustration only. Do not present that as a final price.</li>
+</ul>
+<p>From the business plan document, a lean MVP was estimated at Rs 10 lakh, with break even in 18 months. For Yatra, the ask here is different: partnership and a joint build, not a Rs 10 lakh solo funding request. If Yatra wants a cost plan, build it together after the pilot scope is agreed.</p>
+
+<h2>9. Track record for this same idea</h2>
+<p>This is the same idea, not a new idea for this meeting:</p>
+<ul>
+<li>Internship through Samarth, on this idea.</li>
+<li>Top 10 in SIH, on this idea.</li>
+</ul>
+<p class="small muted">A third hackathon top 5 result was mentioned in earlier drafts, but its exact name is not confirmed in the documents shared, so it is left out here rather than guessed. Add it only with the exact name and certificate.</p>
+
+<h2>10. What we ask Yatra for tomorrow</h2>
+<div class="card">
+<ol>
+<li><strong>A pilot partnership, not a solo launch.</strong> Build the real working prototype together, with a Yatra team.</li>
+<li><strong>Trust and publicity.</strong> Launch the pilot in Visakhapatnam and Chennai under Yatra, so tourists and locals join because Yatra stands behind it.</li>
+<li><strong>Joint decisions on verification, payment, and pricing.</strong> KYC, escrow, SOS, and the take rate are built and priced with Yatra, not presented as already done.</li>
+<li><strong>A short next step.</strong> One working session to agree pilot scope, guide verification, and the first guide list for the two pilot cities.</li>
+</ol>
+</div>
+
+<div class="soft">
+<h3 style="margin-top:0">Honest limits, stated before Yatra asks</h3>
+<ul>
+<li>Survey is 83 responses, student heavy, not national proof.</li>
+<li>Guide supply is the hardest part. Firm yes to guiding was small in the follow up.</li>
+<li>Booking, payment, KYC, and production deployment are not done yet.</li>
+<li>Take rate and final pricing are not fixed.</li>
+<li>Competition research shared so far is a short list, not a full market audit. A fuller SAM, TAM, SOM document is still to be sent and swapped in.</li>
+</ul>
+</div>
+
+<footer>
+<p class="small muted">Virun pilot pitch. Prototype almost done, product not launched. All planned features are marked planned. Survey: 83 responses, August 2026 form. Market SAM and SOM: business plan document figures. Presented by P V N Dhanunjay Reddy.</p>
+</footer>
+</main>
+<script>
+const btn=document.getElementById('themeBtn');
+const saved=localStorage.getItem('virunTheme');
+if(saved==='dark'){document.body.classList.add('dark');btn.textContent='Light mode';}
+btn.addEventListener('click',()=>{
+  const dark=document.body.classList.toggle('dark');
+  localStorage.setItem('virunTheme',dark?'dark':'light');
+  btn.textContent=dark?'Light mode':'Dark mode';
+});
+</script>
+</body>
+</html>

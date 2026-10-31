@@ -31,10 +31,18 @@ table{width:100%;border-collapse:collapse;margin:12px 0;font-size:15px}th,td{tex
 .nav2{display:flex;justify-content:space-between;gap:12px;margin-top:32px;flex-wrap:wrap}a{color:var(--primary)}
 ol,ul{margin:8px 0 8px 20px;padding:0}li{margin:6px 0}.small{font-size:14px}footer{border-top:1px solid var(--line);margin-top:40px;padding-top:16px}
 .step{display:flex;gap:14px;margin:14px 0}.step b{flex:none;width:38px;height:38px;border-radius:50%;background:var(--accent);color:#fff;display:grid;place-items:center;font-size:18px}
+
+.flow{display:flex;gap:10px;align-items:stretch;flex-wrap:wrap;margin:16px 0}
+.flow-box{flex:1;min-width:140px;border-radius:14px;padding:14px;color:#fff;font-weight:700;text-align:center;animation:rise .6s ease both}
+.flow-box small{display:block;font-weight:400;font-size:13px;opacity:.9;margin-top:4px}
+.flow-arrow{align-self:center;font-size:22px;font-weight:800;color:var(--muted)}
+.ppt-img{width:100%;max-width:420px;display:block;margin:16px auto;border-radius:16px;box-shadow:var(--shadow);background:#fff}
+.ppt-row{display:flex;gap:16px;flex-wrap:wrap;align-items:center}.ppt-row img{width:220px;border-radius:16px;box-shadow:var(--shadow);background:#fff}
+.bar2{height:16px;border-radius:8px;overflow:hidden;background:#D8E0E0;margin:6px 0}.bar2 i{display:block;height:100%;animation:grow 1.2s ease both}
 </style></head><body>
 <header class="topbar"><div><b>Virun</b> <span>Yatra pilot pitch</span></div><div><a href="index.html">Home</a> &nbsp; <button class="toggle" id="themeBtn" type="button">Dark mode</button></div></header>
 <main><p class="eyebrow">5. How Virun would work, in the pilot</p><h1>Five steps. A plan, a person, and help during the trip.</h1><p class="lede">From the pre-read PPT, Meet Virun: select destination, choose language and budget, define interests, AI creates the plan, connect to a local expert, and get real time travel assistance. Below is that flow, as a pilot, with planned steps marked.</p>
-<div class="step reveal"><b>1</b><div><h3 style="margin:0">Tourist chooses destination, language, budget, and interests</h3><p>AI creates a first trip plan.</p></div></div>
+<img class="ppt-img" src="ppt-assets/ai-brain.png" alt="Illustration from the Virun pre-read PPT, AI on a chip"><div class="step reveal"><b>1</b><div><h3 style="margin:0">Tourist chooses destination, language, budget, and interests</h3><p>AI creates a first trip plan.</p></div></div>
 <div class="step reveal"><b>2</b><div><h3 style="margin:0">Tourist matches a verified local guide</h3><p>By language, place knowledge, and online or in person mode. <span class="planned">Planned</span></p></div></div>
 <div class="step reveal"><b>3</b><div><h3 style="margin:0">Guide reviews and personalises the plan</h3><p>With food, transport, hidden places, and local experience. <span class="planned">Planned</span></p></div></div>
 <div class="step reveal"><b>4</b><div><h3 style="margin:0">During the trip, the guide stays available</h3><p>Through the platform, with contact details protected. <span class="planned">Planned</span></p></div></div>
